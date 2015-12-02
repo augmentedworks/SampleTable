@@ -1,0 +1,27 @@
+PODS:
+  - AlecrimCoreData (4.0-beta.1)
+  - Bond (4.0.0)
+  - DTModelStorage (2.0.0)
+  - DTTableViewManager (4.0.0):
+    - DTModelStorage (~> 2.0.0)
+  - Realm (0.95.2):
+    - Realm/Headers (= 0.95.2)
+  - Realm/Headers (0.95.2)
+  - RealmSwift (0.95.2):
+    - Realm (= 0.95.2)
+
+DEPENDENCIES:
+  - AlecrimCoreData (~> 4.0-beta.1)
+  - Bond (~> 4.0)
+  - DTTableViewManager
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  AlecrimCoreData: 2f906ee6d182a9aa7c212d833e49430eb4af862b
+  Bond: b729cdb22552def86efd4adfd8b8d93061eb4649
+  DTModelStorage: 5cb631b8bd747e3f11a972e781af1c814bd95995
+  DTTableViewManager: a40598cccf2ba79470c0b2b65e02e27b8cf155ee
+  Realm: 4c026902041bb39c4bd083ebc5e88f4f17973d72
+  RealmSwift: ac7822fe7ab8dca7fa979f4d576793b111d6dce1
+
+COCOAPODS: 0.38.2
